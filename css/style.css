@@ -1,0 +1,35 @@
+body{
+    position: relative;
+}
+
+.page-content{
+    margin-top: 30px;
+}
+
+.slide{
+    margin-bottom: 30px;
+}
+
+footer{
+    text-align: center;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    background-color:#E5E7E9;
+    padding-top: 25px;
+}
+
+.contact-value{
+    margin-bottom: 2px;
+}
+.contact-value a{
+    text-decoration: none;
+}
+
+#formation{
+    text-decoration: none;
+}
+
+.shool-addres{
+    margin-bottom: 2px;
+}
